@@ -1,0 +1,14 @@
+- model: todos.todo
+  fields:
+    title: Learn HTTP
+    body: It's important.
+
+- model: todos.todo
+  fields:
+    title: Second item
+    body: Learn Python.
+
+- model: todos.todo
+  fields:
+    title: 1st todo
+    body: Learn Django properly.
